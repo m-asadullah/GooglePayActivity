@@ -1,0 +1,3 @@
+# GooglePayActivity
+
+### Android Studio Template
